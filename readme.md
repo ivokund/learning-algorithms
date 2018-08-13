@@ -13,6 +13,11 @@ Sort
 1. [Merge sort](./sort/mergeSort.js)
 1. [Quick sort](./sort/quickSort.js)
 
+Arrays, stacks
+--------------
+1. [Reverse characters in every word](./arrays/reverseCharacters) - Reverse characters in every word
+1. [Reverse words in a sentence](./arrays/reverseWords) - Reverse words in a sentence
+
 Graphs
 ------
 1. [Dijkstra's shortest path](./graph/dijkstra) using adjacency list and Fibonaccy heap
@@ -24,3 +29,8 @@ Algorithm problems
 1. [Pretty print](problems/prettyPrint) - Print concentric rectangular pattern in a 2d matrix.
 1. [Max Sum Contiguous Subarray](problems/maxSumSubarray) - Find the contiguous subarray within an array which has the largest sum.
 
+TODO
+----
+1. DFS
+1. BFS
+1. Fibonacci heap
