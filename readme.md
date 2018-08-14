@@ -15,6 +15,9 @@ Sort
 
 Arrays, stacks
 --------------
+1. Binary search a sorted array
+    1. [Version with O(n) space complexity](./arrays/binarySearch)
+    1. [Version with O(1) space complexity](./arrays/binarySearchPointer)
 1. [Reverse characters in every word](./arrays/reverseCharacters) - Reverse characters in every word
 1. [Reverse words in a sentence](./arrays/reverseWords) - Reverse words in a sentence
 
