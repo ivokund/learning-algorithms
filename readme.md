@@ -12,7 +12,7 @@ Sort
 1. [Insertion sort](./sort/insertionSort.js)
 1. [Merge sort](./sort/mergeSort.js)
 1. [Quick sort](./sort/quickSort.js)
-1. [Parallel quick sort](./sort/quickSortParallel.js) - Experimental multi threaded quick sort, uses worker threads (Node 11.7)
+1. [Parallel quick sort](sort/quickSortParallel/) - Experimental multi threaded quick sort, uses worker threads (Node 11.7)
 
 Arrays, stacks
 --------------

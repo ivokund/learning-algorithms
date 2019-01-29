@@ -1,8 +1,8 @@
 const { Worker, isMainThread, parentPort, workerData } = require('worker_threads');
 
 /**
- * This brings a lot of overhead, using workers here makes only sense with very large arrays.
- * Run this by running "quickSortParallel.js" entry point
+ * This brings a lot of overhead, using workers here makes only sense with very large arrays
+ * Usage: `node entry.js`
  */
 
 const parallelSorterFactory = (maxThreads, threadCount) => {
